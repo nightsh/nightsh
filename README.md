@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**nightsh/nightsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nightsh&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=nightsh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480" alt="Github Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nightsh&layout=compact&theme=tokyonight" alt = "GitHub most used languages">
+      </td>
+      <td>
+        <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightsh&theme=tokyonight" alt = "Summary" >
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightsh&label=Profile%20views&color=0e75b6&style=flat" alt="nightsh" /> </p>
