@@ -4,10 +4,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nightsh&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
+        <img src="https://readme-stats-ten-theta.vercel.app/api?username=nightsh&show_icons=true&theme=gruvbox" alt="Victor's GitHub stats"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=nightsh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480" alt="Github Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=nightsh&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480" alt="Github Streak" />
       </td>
     </tr>
   </table>
@@ -17,10 +17,10 @@
   <table>
     <tr>
       <td>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nightsh&layout=compact&theme=tokyonight" alt = "GitHub most used languages">
+        <img src = "https://readme-stats-ten-theta.vercel.app/api/top-langs/?username=nightsh&layout=compact&theme=gruvbox" alt = "GitHub most used languages">
       </td>
       <td>
-        <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightsh&theme=tokyonight" alt = "Summary" >
+        <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightsh&theme=gruvbox" alt = "Summary" >
       </td>
     </tr>
   </table>
